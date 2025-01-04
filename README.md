@@ -11,7 +11,7 @@ Embora ainda esteja me familiarizando com ferramentas de versionamento e colabor
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stravinsky-igor&layout=compact&langs_count=6&theme=tokyonight"/>
 
-## 💻 Tecnologias e Ferramentas de Interesse e em Estudo:
+## 💻 Tecnologias e Ferramentas de Interesse:
 
 ![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,java,python,git,github)
 <div style="display: inline_block"><br>
