@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia, com ênfase em computação em nuvem, especialmen
 
 Embora ainda esteja me familiarizando com ferramentas de versionamento e colaboração, estou motivado para explorar como elas podem otimizar a organização dos meus projetos e abrir novas oportunidades na área de tecnologia.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonpereiradev&theme=github_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stravinsky-igor&theme=github_dark&show_icons=true)
 
 ## 💻 Tecnologias e Ferramentas de Interesse e em Estudo:
 
