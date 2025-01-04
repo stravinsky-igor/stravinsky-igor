@@ -8,6 +8,8 @@ Embora ainda esteja me familiarizando com ferramentas de versionamento e colabor
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stravinsky-igor&theme=github_dark&show_icons=true)
 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stravinsky-igor&layout=compact&langs_count=6&theme=tokyonight"/>
+
 ## 💻 Tecnologias e Ferramentas de Interesse e em Estudo:
 
 ![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,java,python,git,github)
