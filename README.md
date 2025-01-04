@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia, com ênfase em computação em nuvem, especialmen
 Embora ainda esteja me familiarizando com ferramentas de versionamento e colaboração, estou motivado para explorar como elas podem otimizar a organização dos meus projetos e abrir novas oportunidades na área de tecnologia.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stravinsky-igor&theme=github_dark&show_icons=true)
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stravinsky-igor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stravinsky-igor&layout=compact&langs_count=6&theme=tokyonight"/>
 
