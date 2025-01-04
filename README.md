@@ -1,23 +1,25 @@
-## Bem-vindo(a) ao perfil do Igor 🐱‍👤🐱‍👤🐱‍👤
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
- <div>
-   <a href="https://github.com/stravinsky-igor">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stravinsky-igor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stravinsky-igor&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/metalguyocelot" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:igorhnogueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-hnogueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+## Olá eu sou o Igor Henrique e estou iniciando minha jornada em Cloud Computing!
+
+Sou apaixonado por tecnologia, com ênfase em computação em nuvem, especialmente na AWS, além de um forte interesse em redes e cibersegurança. Estou constantemente em busca de novos aprendizados para aperfeiçoar minhas habilidades e evoluir como profissional.
+
+Embora ainda esteja me familiarizando com ferramentas de versionamento e colaboração, estou motivado para explorar como elas podem otimizar a organização dos meus projetos e abrir novas oportunidades na área de tecnologia.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonpereiradev&theme=github_dark&show_icons=true)
+
+## 💻 Tecnologias e Ferramentas de Interesse e em Estudo:
+
+![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,java,python,git,github)
+
+
+## 🔗 Links
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/igor-hnogueira/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:igorhnogueira@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+    </a>
 </div>
