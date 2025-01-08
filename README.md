@@ -2,7 +2,7 @@
 
 ## Olá eu sou o Igor Henrique e estou iniciando minha jornada em Cloud Computing!
 
-Sou apaixonado por tecnologia, com ênfase em computação em nuvem, especialmente na AWS, além de um forte interesse em cibersegurança, redes e IA. Estou constantemente em busca de novos aprendizados para aperfeiçoar minhas habilidades e evoluir como profissional.
+Sou apaixonado por tecnologia, com ênfase em computação em nuvem, especialmente na AWS, além de um forte interesse em IA e Machine learning. Estou constantemente em busca de novos aprendizados para aperfeiçoar minhas habilidades e evoluir como profissional.
 
 Embora ainda esteja me familiarizando com ferramentas de versionamento e colaboração, estou motivado para explorar como elas podem otimizar a organização dos meus projetos e abrir novas oportunidades na área de tecnologia.
 
